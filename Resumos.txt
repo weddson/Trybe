@@ -20,4 +20,10 @@ git checkout
 Comando que muda de branch, ao usar git checkout -b nome-da-branch você pode criar uma branch e ir automaticamente para ela.
 
 git branch
-Verifica a branch atual
+Verifica a branch atual e adicionado um nome de uma nova branch no final do comando ele cria uma nova branch.
+
+git Merge
+Ele mescla uma branch com a branch atual. Exemplo: git branch teste (Com esse comando ele vai dar o merge da teste na atual.)
+
+git log
+mostras os registros dos commits

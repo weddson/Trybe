@@ -1,0 +1,23 @@
+Branch - Ramificação
+
+Commit - Captura de mudanças
+
+Merge - Mesclagem
+
+O README.md é um arquivo de marcação de texto responsável por informar e orientar sobre como utilizar o projeto.
+
+git add
+Comando usado para adicionar os arquivos modificados ao próximo commit. Pode ser adicionado arquivo por arquivo ou usando git add . para adicionar todos os arquivos de uma vez.
+
+Git commit
+Git commit é o comando que realiza o commit(checkpoint) no local, ele basicamente vai adicionar seu comentário quando você utilizar git commit -m, ele possue outros parâmetros, mas o principal é o -m.
+Exemplo: Git commit -m "Adicionado botão"
+
+git status
+Comando que verifica o status do repositório local.
+
+git checkout
+Comando que muda de branch, ao usar git checkout -b nome-da-branch você pode criar uma branch e ir automaticamente para ela.
+
+git branch
+Verifica a branch atual

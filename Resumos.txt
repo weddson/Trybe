@@ -33,3 +33,11 @@ Clona um repositório quando o parâmetro dado for um link de um repositório.
 
 git remote -v
 Mostra o repositório remote ao qual o repositório local está ligado
+
+git push -u origin branch
+enviará suas alterações diretamente para o seu repositório remoto. O -u é uma sintaxe mais curta para --set-upstream.
+
+git remote set-url
+Com esse comando você pode trocar o url do repositório para trocar por exemplo de HTTPS para SSH, utilizando o comando com algo semelhante a: git remote set-url origin {link}
+Qual a diferença entre se conectar por HTTPS e por SSH no Github?
+Enquanto com o HTTPS você deverá sempre salvar o cache caso queira utilizar sem precisar colocar senhas, com o SSH você não precisará de autenticações pois é tudo feito diretamente no SSH.

@@ -27,3 +27,9 @@ Ele mescla uma branch com a branch atual. Exemplo: git branch teste (Com esse co
 
 git log
 mostras os registros dos commits
+
+git clone
+Clona um repositório quando o parâmetro dado for um link de um repositório.
+
+git remote -v
+Mostra o repositório remote ao qual o repositório local está ligado

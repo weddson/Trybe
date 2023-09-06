@@ -1,4 +1,4 @@
 
-# Repositório GIT onde você poderá encontrar todas as minhas lições da Trybe.
+# Meu respositório de lições.
 
 Essa linha foi adicionada no repositório Teste

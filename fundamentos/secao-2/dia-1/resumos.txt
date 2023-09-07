@@ -1,0 +1,81 @@
+IP 
+Internet Protocol
+
+Um IP possui 4 campos de dígitos separados por pontos. São chamados de endereço lógico.
+
+TCP
+Transmission Control Protocol(Protocolo de Controle de Transimissão)
+
+ISP
+ISP ou Internet Service Provider é o provedor de internet.
+
+DNS
+DNS ou Domain Name System é um dispositivo com uma base de dados distribuída que gerencia os nomes de serviços, computadores ou qualquer dispositivo conectado à internet.
+
+Port Number
+O número de porta é um número de 16 bits utilizado para identificar uma porta específica no servidor, e está sempre associado ao endereço IP.
+
+Host
+O Host é qualquer dispositivo conectado à rede que pode transmitir ou receber pacotes IP.
+
+HTTP
+Hyper-text Transfer Protocol é o protocolo utilizado para a comunicação entre navegadores e servidores na internet.
+
+URL
+É a sigla para Uniform Resource Locators e identifica um recurso web específico.
+
+HTML
+Hyper text markup language
+
+CSS
+Cascading Style Sheets
+
+
+HTML tags
+
+Estrutura básica
+<html lang="pt-br"></html>
+Raíz da página HTML, tudo dentro do documento ficará dentro dela.
+
+<p></p>
+Parágrafo
+
+<!DOCTYPE html>
+Informação para o navegador saber que é um HTML
+
+<head></head>
+Contém as configurações da página. 
+
+<meta charset="UTF-8">
+Definição de conjunto de caracteres utilizados na página
+
+<title></title>
+Define o título da página.
+
+<body></body>
+O corpo da página, onde ficarão as informações visíveis.
+
+<br>
+quebra de linha em HTML
+
+<strong></strong>
+Negrito
+
+<em></em>
+Itálico
+
+<ul></ul>
+unordered list
+
+<ol></ol>
+order list
+
+<li></li>
+Item list
+
+<img src="link" alt="descriçao da imagem" width="300px">
+Adiciona uma imagem
+
+
+width
+largura
